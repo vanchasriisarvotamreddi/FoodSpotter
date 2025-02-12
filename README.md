@@ -1,15 +1,11 @@
-# 🍴 **Restaurant Finder Application**  
-**By Team HPS**  
-A CMPE 202 Project from San Jose State University  
+# 🍴 **FoodSpotter Application**  
+
 
 
 ## **Welcome to Food Exploration Made Simple!**  
-Tired of guessing where to grab your next bite? Our **Restaurant Finder Application** brings dining to your fingertips. Whether you’re craving sushi at sunset, tacos at twilight, or a cozy café for brunch, this app has you covered. Built with precision and passion, it’s more than just a project—it’s your new dining companion!  
+Tired of guessing where to grab your next bite? Our **FoodSpotter Application** brings dining to your fingertips. Whether you’re craving sushi at sunset, tacos at twilight, or a cozy café for brunch, this app has you covered. Built with precision and passion, it’s more than just a project—it’s your new dining companion!  
 
 ### **Meet the Chefs Behind the App**  
-- **Hafeeza Samreen**  
-- **Pranav Tadepu**  
-- **Sahithi Chikkela**  
 - **Sarvotam Vancha**  
 
 Together, we are **Team HPS**, blending our expertise to create an intuitive, seamless platform for foodies, business owners, and admins alike.  
