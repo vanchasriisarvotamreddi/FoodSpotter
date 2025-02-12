@@ -6,9 +6,8 @@
 Tired of guessing where to grab your next bite? Our **FoodSpotter Application** brings dining to your fingertips. Whether you’re craving sushi at sunset, tacos at twilight, or a cozy café for brunch, this app has you covered. Built with precision and passion, it’s more than just a project—it’s your new dining companion!  
 
 ### **Meet the Chefs Behind the App**  
-- **Sarvotam Vancha**  
+- **Srii Sarvotam Reddi Vancha**  
 
-Together, we are **Team HPS**, blending our expertise to create an intuitive, seamless platform for foodies, business owners, and admins alike.  
 
 
 ## **What’s on the Menu: Feature Set**  
@@ -191,6 +190,5 @@ Conduct UI/UX testing across all roles
 ## **Get Started & Bon Appétit!**  
 Ready to explore your next favorite restaurant or manage your dining business? Clone the repo, set it up, and start serving smiles!  
 
-📧 Questions? Feedback? Contact Team HPS for more info!  
 
 Happy Dining!  
